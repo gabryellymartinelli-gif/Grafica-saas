@@ -1,0 +1,9 @@
+{
+  "extensions.json": {
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "Prisma.prisma"
+    ]
+  }
+}
